@@ -7,14 +7,10 @@ Laravel-Translatable
 
 
 [![Total Downloads](https://poser.pugx.org/utichawa/Translatable/downloads.svg)](https://packagist.org/packages/utichawa/Translatable)
-[![Build Status](https://circleci.com/gh/utichawa/Translatable.png?style=shield)](https://circleci.com/gh/utichawa/Translatable)
-[![Code Coverage](https://scrutinizer-ci.com/g/utichawa/Translatable/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/utichawa/Translatable/?branch=master)
 [![Latest Stable Version](http://img.shields.io/packagist/v/utichawa/Translatable.svg)](https://packagist.org/packages/utichawa/Translatable)
 [![License](https://poser.pugx.org/utichawa/Translatable/license.svg)](https://packagist.org/packages/utichawa/Translatable)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/c105358a-3211-47e8-b662-94aa98d1eeee/mini.png)](https://insight.sensiolabs.com/projects/c105358a-3211-47e8-b662-94aa98d1eeee)
 [![StyleCI](https://styleci.io/repos/16480576/shield)](https://styleci.io/repos/16480576)
-
-![Laravel Translatable](img/laravel-translatable.png)
 
 **If you want to store translations of your models into the database, this package is for you.**
 
